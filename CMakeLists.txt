@@ -5,4 +5,5 @@ set(CMAKE_C_STANDARD 11)
 
 add_library(C_Primer_Plus_Exercise STATIC
         c2/03.c
-        c4/01.c)
+        c4/01.c
+        c6/listing_6_20.c)
